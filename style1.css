@@ -15,7 +15,6 @@
 .num-title{
     padding: 10px;
     text-align: center;
-    /* border: 1px solid black; */
     border-radius: 50%;
     height: 50px;
     width: 50px;
@@ -24,4 +23,5 @@
 
 .icons{
     color: black;
+
 }
